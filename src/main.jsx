@@ -24,7 +24,7 @@ const router = createBrowserRouter([
         element: <Quiz />
       },
       {
-        path: "qome",
+        path: "home",
         element: <LandingPage />
       },
       {
