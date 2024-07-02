@@ -232,7 +232,7 @@ function Quiz() {
 
   return (
     <div className='flex flex-wrap items-center justify-center mt-10 bg-black bg-opacity-0 full'>
-      <form className='flex flex-wrap items-center w-full max-w-3xl p-2 mx-4 mt-10 bg-white border-2 shadow-lg h-96 md:h-80 lg:h-96 md:p-4 lg:p-4 bg-opacity-80 sm:w-full md:w-2/3 lg:w-2/3' onSubmit={handleSubmit}>
+      <form className='flex flex-wrap items-center w-full max-w-3xl p-2 mx-4 mt-10 bg-white border-2 shadow-lg md:h-80 lg:h-96 md:p-4 lg:p-4 bg-opacity-80 sm:w-full md:w-2/3 lg:w-2/3' onSubmit={handleSubmit}>
         <section className='grid items-baseline justify-center grid-cols-1 mb-4'>
           <label className='w-full mb-10 text-lg font-bold top-3'>
             {`Q-${currentQuestionIndex + 1}: ${questions[currentQuestionIndex].text}`}
