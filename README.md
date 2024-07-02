@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # NeroZen-Chatbot
 # NeroZen-Chatbot
 # NeroZen-Chatbot
+# ChatBot-NeroZen
