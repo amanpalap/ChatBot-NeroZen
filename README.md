@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # NeroGen---ChatBot
 # NeroZen-Chatbot
 # NeroZen-Chatbot
+# NeroZen-Chatbot
