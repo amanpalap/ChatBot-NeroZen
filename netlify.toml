@@ -1,4 +1,7 @@
+[build]
+  publish = "public"
+
 [[redirects]]
-  from = "/Quiz/*"
+  from = "/Quiz"
   to = "/Quiz/index.html"
-  status = 200
+  status = 301
