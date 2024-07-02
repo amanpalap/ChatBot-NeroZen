@@ -2,4 +2,4 @@
   [[redirects]]
     from = "/Quiz"
     to = "/Quiz/index.html"
-    status = 200
+    status = 200 
