@@ -1,5 +1,4 @@
-[redirects]
-  [[redirects]]
-    from = "/Quiz"
-    to = "/Quiz/index.html"
-    status = 200
+[[redirects]]
+  from = "/Quiz/*"
+  to = "/Quiz/index.html"
+  status = 200
